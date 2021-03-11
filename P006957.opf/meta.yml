@@ -5,11 +5,13 @@ source_metadata:
   title: དབུ་མ་འཇུག་པའི་མཐའ་དཔྱོད་ལུང་རིགས་གཏེར་མཛོད་ཟབ་དོན་ཀུན་གསལ་སྐལ་བཟང་འཇུག་ངོགས
   author: ''
   volumes:
-    f7f85c9e0fea4941abcd51135a30d3dc:
+    e02753ea7f194161b50f4f38bc460cf4:
       image_group_id: I1PD36353
-      title: ''
+      title: Volume 1 of dbu ma 'jug pa'i mtha' dpyod lung rigs gter mdzod zab don
+        kun gsal skal bzang 'jug ngogs
       volume_number: 1
       total_pages: 468
+      base_file: v001.txt
 ebook_metadata:
   title: དབུ་མ་འཇུག་པའི་མཐའ་དཔྱོད་ལུང་རིགས་གཏེར་མཛོད་ཟབ་དོན་ཀུན་གསལ་སྐལ་བཟང་འཇུག་ངོགས
   author: ''
